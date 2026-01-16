@@ -8,16 +8,7 @@ API Type: REST
 📂 Project Structure
 Copy code
 
-backend-task/
-│── src/
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── config/
-│   └── app.js
-│── .env
-│── package.json
-│── README.md
+
 🚀 Features
 Create, Read, Update, Delete (CRUD) operations
 RESTful API design
